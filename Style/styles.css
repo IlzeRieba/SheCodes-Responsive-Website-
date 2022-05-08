@@ -165,7 +165,7 @@ p.about-paragraph {
   text-align: center;
 }
 
-@media (max-width: 500px) {
+@media (mmin-width: 500px) {
   img {
     display: none;
   }

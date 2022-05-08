@@ -166,7 +166,7 @@ p.about-paragraph {
 }
 
 @media (max-width: 500px) {
-  img {
+  .large-photo {
     display: none;
   }
 

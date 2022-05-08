@@ -169,29 +169,28 @@ p.about-paragraph {
   img {
     display: none;
   }
-}
 
-h2 {
-  font-size: 20px;
-  text-align: center;
-}
+  h2 {
+    font-size: 20px;
+    text-align: center;
+  }
 
-p {
-  font-size: 14px;
-}
-.primary-link {
-  border-radius: 4px;
-  padding: 10px 10px;
-  text-decoration: none;
-  text-transform: capitalize;
-  background: var(--primary-color);
-  box-shadow: var(--box-shadow);
-  color: white;
-  margin-left: 20px;
-  font-size: 12px;
-}
+  p {
+    font-size: 14px;
+  }
+  .primary-link {
+    border-radius: 4px;
+    padding: 10px 10px;
+    text-decoration: none;
+    text-transform: capitalize;
+    background: var(--primary-color);
+    box-shadow: var(--box-shadow);
+    color: white;
+    margin-left: 20px;
+    font-size: 12px;
+  }
 
-#contact {
-  font-size: 10px;
-}
+  #contact {
+    font-size: 10px;
+  }
 }
